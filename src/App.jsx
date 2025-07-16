@@ -48,7 +48,10 @@ function App() {
   return (
     <div className="App">
       <div className="overlay">
-       <img src="/FruitTrack/logo.png" alt="Logo" style={{ height: '80px' }} />
+       <div className="logo-container">
+  <img src="/FruitTrack/logo.png" alt="Logo" />
+</div>
+
 
 
 
