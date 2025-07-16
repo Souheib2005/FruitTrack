@@ -1,0 +1,15 @@
+{
+  "title": "Tableau de bord des prix alimentaires En Ontario",
+  "description": "Ce tableau de bord bilingue permet d'explorer les prix des aliments de 2020 à 2025 en USD, CAD et EUR. Les données sont synthétiques et à titre démonstratif.",
+  "selectProduct": "Choisir un produit",
+  "selectYear": "Choisir une année",
+  "selectCurrency": "Choisir une devise",
+  "lineChartTitle": "Évolution du prix au fil des années",
+  "barChartTitle": "Comparaison des prix pour l'année sélectionnée",
+  "averagePrice": "Prix moyen",
+  "downloadCharts": "Télécharger les graphiques",
+  "feedbackTitle": "Votre avis",
+  "feedbackPlaceholder": "Faites-nous savoir ce que vous en pensez !",
+  "submitFeedback": "Soumettre",
+  "thankYouFeedback": "Merci pour votre retour !"
+}

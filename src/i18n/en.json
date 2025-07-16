@@ -1,0 +1,15 @@
+{
+  "title": "Food Price Dashboard In Ontario",
+  "description": "This is a bilingual dashboard for exploring food prices from 2020 to 2025 in USD, CAD, and EUR. The data is synthetic and for demonstration purposes only.",
+  "selectProduct": "Select a product",
+  "selectYear": "Select a year",
+  "selectCurrency": "Select a currency",
+  "lineChartTitle": "Price over Time",
+  "barChartTitle": "Price Comparison in Selected Year",
+  "averagePrice": "Average Price",
+  "downloadCharts": "Download Charts",
+  "feedbackTitle": "Your Feedback",
+  "feedbackPlaceholder": "Let us know what you think!",
+  "submitFeedback": "Submit Feedback",
+  "thankYouFeedback": "Thank you for your feedback!"
+}

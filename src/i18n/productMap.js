@@ -1,0 +1,22 @@
+export const productNames = {
+  Tomatoes: { en: "Tomatoes", fr: "Tomates" },
+  Broccoli: { en: "Broccoli", fr: "Brocoli" },
+  Cucumbers: { en: "Cucumbers", fr: "Concombres" },
+  Lettuce: { en: "Lettuce", fr: "Laitue" },
+  Carrots: { en: "Carrots", fr: "Carottes" },
+  Potatoes: { en: "Potatoes", fr: "Pommes de terre" },
+  Onions: { en: "Onions", fr: "Oignons" },
+  Peppers: { en: "Peppers", fr: "Poivrons" },
+  Spinach: { en: "Spinach", fr: "Épinards" },
+  Zucchini: { en: "Zucchini", fr: "Courgettes" },
+  Eggplant: { en: "Eggplant", fr: "Aubergine" },
+  Garlic: { en: "Garlic", fr: "Ail" },
+  Mushrooms: { en: "Mushrooms", fr: "Champignons" },
+  Kale: { en: "Kale", fr: "Chou frisé" },
+  Avocados: { en: "Avocados", fr: "Avocats" },
+  Cauliflower: { en: "Cauliflower", fr: "Chou-fleur" },
+  Cabbage: { en: "Cabbage", fr: "Chou" },
+  SweetPotatoes: { en: "Sweet Potatoes", fr: "Patates douces" },
+  GreenBeans: { en: "Green Beans", fr: "Haricots verts" },
+  Asparagus: { en: "Asparagus", fr: "Asperges" }
+};
