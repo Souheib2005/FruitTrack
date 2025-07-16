@@ -48,7 +48,8 @@ function App() {
   return (
     <div className="App">
       <div className="overlay">
-       <img src={`${process.env.PUBLIC_URL}/logo.png`} alt="Logo" style={{ height: '80px' }} />
+       <img src="/FruitTrack/logo.png" alt="Logo" style={{ height: '80px' }} />
+
 
 
         <h1>{t("title")}</h1>
